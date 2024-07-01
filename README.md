@@ -1,20 +1,46 @@
-
 # **¡Hola a todos! 👋**
 
 ***¡Bienvenidos a mi perfil de GitHub!***
 
 ## **Soy Johan Ramirez Vargas**
-Un apasionado por las tecnologías y el desarrollo de software. Actualmente tengo *20 años*, vivo en la **Republica Dominicana** y estoy cursando el 9no cuatrimestre de la **Ingeniería en Sistemas** en la [Universidad Católica del Cibao](https://www.ucateci.edu.do/).
+Soy un estudiante de **Ingeniería en Sistemas** de tercer año en la **Universidad Católica del Cibao**. Actualmente tengo *20 años* y vivo en la **República Dominicana**. Me apasiona la *ingeniería y desarrollo de software* y estoy emocionado por seguir aprendiendo.
 
-### **Sobre Mí**
-Me considero una persona bastante **adaptable** a las diferentes situaciones que se me presentan. En mi tiempo libre, disfruto de *jugar baloncesto y videojuegos y ver series animadas y leer comics* y siempre estoy emocionado por **aprender algo nuevo**.
+## **Sobre Mí**
+Me considero una persona bastante **adaptable** a las diferentes situaciones que se me presentan. Estoy enfocado en seguir *explorando las diferentes áreas dentro del mundo del desarrollo de software*.
 
-🔭 **Explora mis proyectos en GitHub:** [JohanRV](https://github.com/JohanRV)
+### **Educación**
+- **Ingeniería en Sistemas Computacionales:** Ucateci 2021 - 2026
+- **Programa One:** Alura e Oracle 2024 - 2025
 
+### **Proyectos**
+- [Dark Code Diaries](https://www.youtube.com/channel/UC4qyhmSO0gwYBxhRphzd7PQ): Es un canal de YouTube donde planeo compartir mi trayectoria de estudiante hasta ingeniero de software.
+- [Codificador-Alura](): Primer challenge del programa One.
 
-## **Aprendizaje Actual**
-Estoy enfocado en seguir explorando las diferentes areas dentro del mundo del desarrollo de software, todavia no tengo un perfil en especifico.
+### **Habilidades Técnicas**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Actualmente estoy siguiendo el [programa one](https://www.oracle.com/co/education/oracle-next-education/)
+## **Contacto**
+- LinkedIn: [Johan Ramirez Vargas](https://www.linkedin.com/in/johanramirezvargas/)
+
+## **Colaboración y Contribución**
+- Estoy interesado en colaborar en proyectos relacionados con el desarrollo web.
+- Estoy abierto a contribuciones.
+
+## **Intereses**
+Mis intereses actuales incluyen:
+- Desarrollo web
+- Desarrollo móvil
+- Inteligencia artificial
+- Matemáticas
+- Arte
+
+## **Otra Información**
+- En mi tiempo libre disfruto de jugar videojuegos, ver series, leer cómics y jugar baloncesto.
 
 ¡No dudes en conectarte conmigo! Estoy emocionado por aprender, colaborar y crecer en la comunidad de desarrollo de software.
+
+¡Gracias por visitar mi perfil!
