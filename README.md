@@ -13,10 +13,10 @@ Me considero una persona bastante **adaptable** a las diferentes situaciones que
 - **Programa One:** Alura e Oracle 2024 - 2025
 
 ### **Proyectos**
-- [Dark Code Diaries](https://www.youtube.com/channel/UC4qyhmSO0gwYBxhRphzd7PQ): Es un canal de YouTube donde planeo compartir mi trayectoria de estudiante hasta ingeniero de software.
+- [The bits a bytes](https://youtube.com/@the-bits-a-bytes?si=b-3mxPtXMrOlRta8): Es un canal de YouTube donde planeo compartir mi trayectoria de estudiante hasta ingeniero de software.
 - [Codificador-Alura](): Primer challenge del programa One.
 
-### **Habilidades Técnicas**
+### **Estudios actuales**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
