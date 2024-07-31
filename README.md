@@ -13,7 +13,6 @@ Me considero una persona bastante **adaptable** a las diferentes situaciones que
 - **Programa One:** Alura e Oracle 2024 - 2025
 
 ### **Proyectos**
-- [The bits a bytes](https://youtube.com/@the-bits-a-bytes?si=b-3mxPtXMrOlRta8): Es un canal de YouTube donde planeo compartir mi trayectoria de estudiante hasta ingeniero de software.
 - [Codificador-Alura](): Primer challenge del programa One.
 
 ### **Estudios actuales**
